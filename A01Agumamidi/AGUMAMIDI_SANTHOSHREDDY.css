@@ -1,0 +1,106 @@
+body{
+	background-image: url("http://feelgrafix.com/data/background/background-14.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+#myprofile{
+	position: absolute;
+	top: 60px;
+	right:10px;
+
+}
+.active {
+    background-color: brown;
+}
+
+li a:hover {
+    background-color: blue;
+    }
+
+.unordered {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+}
+
+a
+{
+    text-decoration: none;
+}
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: top;
+    padding: 12px 14px;
+    text-decoration: none;
+}
+
+#help{
+    border: 1px solid black;
+    background-color: lightblue;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 8px;
+    height:100px;
+    width:300px;
+    font-style: oblique;
+}
+
+
+.batman{
+
+    position: absolute;
+    left: 30%;
+    top: 15%;
+    border: 1px solid black;
+    background-color: lightblue;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 8px;
+    height:150px;
+    width:600px;
+    font-style: oblique;
+
+}
+
+.interstellar{
+    position: absolute;
+    left: 30%;
+    top: 48%;
+    border: 1px solid black;
+    background-color: lightblue;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 8px;
+    height:150px;
+    width:600px;
+    font-style: oblique;
+}
+
+.inception{
+    position: absolute;
+    left: 30%;
+    top: 80%;
+    border: 1px solid black;
+    background-color: lightblue;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 8px;
+    height:150px;
+    width:600px;
+    font-style: oblique;
+}
+#v1{
+    display: block;
+    margin: auto;
+}
+
+
+	
+
